@@ -4,7 +4,7 @@
 
 Comunidad boyacense en busca de fortalecer y compartir conocimiento en la región, enfocado al desarrollo de software y la industria TI. 💻🇨🇴
 
-BoyaConf es un esfuerzo de un grupo de estudiantes y profesionales boyacenses, quienes, motivados por la gran comunidad de desarrollo de software en Colombia, deseamos crear una comunidad en nuestra región de manera que logremos fortalecer y adquirir nuevos conocimientos enfocados al desarrollo de software y la industria TI.
+Boyacá Dev es una comunidad creada por boyacenses, en búsqueda de brindar y fomentar un espacio donde se comparta conocimiento, se desarrollen las habilidades técnicas y se fortalezca el sector tecnológico de la región.
 
 Te agradecemos en gran medida el interés por apoyarnos y permitirnos seguir haciendo actividades, eventos, conferencias y algunas cosas más que planeemos para el futuro.
 
@@ -18,6 +18,7 @@ Síguenos para enterarte de todas las novedades sobre la comunidad, las activida
 [<img src="https://img.shields.io/badge/twitch-%239146FF.svg?&style=for-the-badge&logo=twitch&logoColor=white"/>](https://twitch.tv/boyaconf/)
 [<img src="https://img.shields.io/badge/youtube-%23ff0000.svg?&style=for-the-badge&logo=youtube&logoColor=white"/>](https://youtube.com/@boyaconf/)
 [<img src="https://img.shields.io/badge/instagram-%23833AB4.svg?&style=for-the-badge&logo=instagram&logoColor=white"/>](https://www.instagram.com/boyaca_dev/)
+[<img src="https://img.shields.io/badge/discord-%235865F2.svg?&style=for-the-badge&logo=discord&logoColor=white"/>](https://discord.gg/ZRvWRtpFqX)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/company/boyaconf/)
 
 ## Donaciones
