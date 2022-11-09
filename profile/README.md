@@ -23,11 +23,11 @@ Síguenos para enterarte de todas las novedades sobre la comunidad, las activida
 
 ## Donaciones
 
-[<img src="https://img.shields.io/badge/github%20sponsors-%23EA4AAA.svg?&style=for-the-badge&logoColor=white&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAPFJREFUeNrsVW0NhDAMZSiYBCRMAg6YhElAAg6QgBQkIIFzMAk7SLa70rT7uB3J/bgmhUBf31u7Lmuav5Wac04fvrmrnd8GYAyD0SnyxcVtycHEVn5ZzeG9f68E0YowsCJNCQTAllHdQsRllCOq/iaYvMtUF3CgAwJ9xYD0gKc7/7XnQwjxADhZMYSv3MDZgmAQGSoEBsR1KW+saRNqz8ht4u4BltvIyABYn7uzuUdAobMgM8nhGVCpBJMrQpCb3JKnlAhBPpZu2syJEOTzpwcHt0t5L29LpogF01JPzoh8lxyNcKhA3XXbqdvIf9aeAgwApQNy3AmH0wEAAAAASUVORK5CYII="/>](https://github.com/sponsors/boyaconf)
+[<img src="https://img.shields.io/badge/github%20sponsors-%23EA4AAA.svg?&style=for-the-badge&logoColor=white&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAPFJREFUeNrsVW0NhDAMZSiYBCRMAg6YhElAAg6QgBQkIIFzMAk7SLa70rT7uB3J/bgmhUBf31u7Lmuav5Wac04fvrmrnd8GYAyD0SnyxcVtycHEVn5ZzeG9f68E0YowsCJNCQTAllHdQsRllCOq/iaYvMtUF3CgAwJ9xYD0gKc7/7XnQwjxADhZMYSv3MDZgmAQGSoEBsR1KW+saRNqz8ht4u4BltvIyABYn7uzuUdAobMgM8nhGVCpBJMrQpCb3JKnlAhBPpZu2syJEOTzpwcHt0t5L29LpogF01JPzoh8lxyNcKhA3XXbqdvIf9aeAgwApQNy3AmH0wEAAAAASUVORK5CYII="/>](https://github.com/sponsors/boyaca-dev)
 [<img src="https://img.shields.io/badge/PayPal-%2300457C.svg?&style=for-the-badge&logo=paypal&logoColor=%23FFFFFF"/>](https://www.paypal.com/donate/?hosted_button_id=5HTXA88MCUMUC)
 
 > Para motivos de transparencia tendremos una página web dedicada a la divulgación de la información y estadisticas de nuestros patrocinios. Específicamente el número de Sponsors y el dinero recibido mensualmente. Los datos de nuestros Sponsors no serán compartidos, aunque pueda que mostremos tu foto de perfil y nombre, dependiendo de la opción de Sponsor que elijas.
 
-## [Código de Conducta](https://github.com/boyaconf/code-of-conduct/blob/bc/readme-es.md)
+## [Código de Conducta](https://github.com/boyaca-dev/code-of-conduct/blob/bc/readme-es.md)
 
-Te invitamos a leer y conocer nuestro [código de conducta](https://github.com/boyaconf/code-of-conduct/blob/bc/readme-es.md), bajo el cuál desarrollamos todas nuestras actividades, de manera que tu participación sea acorde a este.
+Te invitamos a leer y conocer nuestro [código de conducta](https://github.com/boyaca-dev/code-of-conduct/blob/bc/readme-es.md), bajo el cuál desarrollamos todas nuestras actividades, de manera que tu participación sea acorde a este.
