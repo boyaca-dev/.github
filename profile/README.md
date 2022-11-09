@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/10360816/200760813-3a6b5d1c-9396-4613-9d1a-420ef065bf5f.png" width="320" align="right" hspace="0" />
+<img src="https://user-images.githubusercontent.com/10360816/200761027-2735e4e2-94c3-4e80-b020-dbe6ea918a1d.png" width="320" align="right" hspace="0" />
 
 # Boyacá Dev
 
