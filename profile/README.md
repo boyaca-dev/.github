@@ -27,6 +27,6 @@ Síguenos para enterarte de todas las novedades sobre la comunidad, las activida
 
 > Para motivos de transparencia tendremos una página web dedicada a la divulgación de la información y estadisticas de nuestros patrocinios. Específicamente el número de Sponsors y el dinero recibido mensualmente. Los datos de nuestros Sponsors no serán compartidos, aunque pueda que mostremos tu foto de perfil y nombre, dependiendo de la opción de Sponsor que elijas.
 
-## [Código de Conducta](https://github.com/boyaca-dev/code-of-conduct/blob/bc/readme-es.md)
+## [Código de Conducta](https://boyaca-dev.org/codigo)
 
-Te invitamos a leer y conocer nuestro [código de conducta](https://github.com/boyaca-dev/code-of-conduct/blob/bc/readme-es.md), bajo el cuál desarrollamos todas nuestras actividades, de manera que tu participación sea acorde a este.
+Te invitamos a leer y conocer nuestro [código de conducta](https://boyaca-dev.org/codigo), bajo el cuál desarrollamos todas nuestras actividades, de manera que tu participación sea acorde a este.
